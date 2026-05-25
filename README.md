@@ -55,5 +55,4 @@
 
 ### 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-wajahatmaqsoodx%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wajahatmaqsoodx@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wajahat%20Maqsood-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajahat-maqsood-59013627b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wajahat%20Maqsood-0A66C2?style=flat&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/wajahat-maqsood-59013627b)
