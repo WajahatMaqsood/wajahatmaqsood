@@ -1,6 +1,7 @@
 # Hi, I'm Wajahat Maqsood 👋
 
 🎓 BSc Software Engineering Graduate from Liverpool John Moores University
+
 💻 Full-Stack Developer passionate about building scalable and modern web applications.
 
 🚀 Currently working on:
