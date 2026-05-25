@@ -42,6 +42,3 @@
 - Email: wajahatmaqsoodx@gmail.com
 - LinkedIn: www.linkedin.com/in/wajahat-maqsood-59013627b
   
-
-## ⚡ Fun Fact
-I enjoy building real-world software solutions and learning modern technologies.
